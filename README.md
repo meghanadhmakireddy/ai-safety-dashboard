@@ -1,11 +1,11 @@
-# AI Safety Incident Dashboard 🚀
+# AI Safety Incident Dashboard
 
 A responsive and user-friendly dashboard for reporting and tracking AI safety incidents.  
-Built for internship evaluation purposes.
+internship evaluation purposes.
 
 ---
 
-## ✨ Features
+## Features :
 - Toggle between Dark Mode and Light Mode
 - Dashboard Overview with Incident Statistics
 - Add New Incidents using Form
@@ -14,7 +14,7 @@ Built for internship evaluation purposes.
 
 ---
 
-## 🛠 Tech Stack
+## Used Techs :
 - React.js
 - TypeScript
 - Tailwind CSS
@@ -22,7 +22,7 @@ Built for internship evaluation purposes.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
